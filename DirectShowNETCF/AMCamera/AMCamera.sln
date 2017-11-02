@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMCamera", "Native.vcproj", "{F8750591-0C4E-4E1D-97D5-E80DB244BF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Lamarck_VDX_SDK (x86) = Debug|Lamarck_VDX_SDK (x86)
+		Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I) = Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		Release|Lamarck_VDX_SDK (x86) = Release|Lamarck_VDX_SDK (x86)
+		Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I) = Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Lamarck_VDX_SDK (x86).ActiveCfg = Debug|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Lamarck_VDX_SDK (x86).Build.0 = Debug|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Lamarck_VDX_SDK (x86).Deploy.0 = Debug|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I).Build.0 = Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Lamarck_VDX_SDK (x86).ActiveCfg = Release|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Lamarck_VDX_SDK (x86).Build.0 = Release|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Lamarck_VDX_SDK (x86).Deploy.0 = Release|Lamarck_VDX_SDK (x86)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I).Build.0 = Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+		{F8750591-0C4E-4E1D-97D5-E80DB244BF93}.Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Smartphone SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
